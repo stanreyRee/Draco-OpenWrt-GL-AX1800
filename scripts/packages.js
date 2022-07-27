@@ -65,42 +65,42 @@ module.exports = [
   //   name: 'luci-app-sqm',
   //   desc: '流量智能队列管理(QOS)',
   // },
-  // {
-  //   name: 'luci-app-advancedsetting',
-  //   desc: '系统高级设置',
-  // },
-  // {
-  //   name: 'luci-app-ttyd',
-  //   desc: 'ttyd 终端',
-  // },
-  // {
-  //   name: 'luci-app-unblockneteasemusic',
-  //   desc: '解锁网易云音乐 (无界面)',
-  // },
+  {
+    name: 'luci-app-advancedsetting',
+    desc: '系统高级设置',
+  },
+  {
+    name: 'luci-app-ttyd',
+    desc: 'ttyd 终端',
+  },
+  {
+    name: 'luci-app-unblockneteasemusic',
+    desc: '解锁网易云音乐 (无界面)',
+  },
   // {
   //   name: 'luci-app-syncdial',
   //   desc: '多拨虚拟网卡（需要光猫支持多拨）',
   // },
-  // {
-  //   name: 'luci-app-passwall',
-  //   desc: 'passwall代理软件',
-  // },
-  // {
-  //   name: 'luci-app-ssr-plus',
-  //   desc: 'ssr-plus 代理软件',
-  // },
-  // {
-  //   name: 'luci-app-aliddns',
-  //   desc: '阿里云ddns插件',
-  // },
-  // {
-  //   name: 'luci-app-ddns',
-  //   desc: '动态域名 DDNS',
-  // },
-  // {
-  //   name: 'luci-app-eqos',
-  //   desc: '依IP地址限速',
-  // },
+  {
+    name: 'luci-app-passwall',
+    desc: 'passwall代理软件',
+  },
+  {
+    name: 'luci-app-ssr-plus',
+    desc: 'ssr-plus 代理软件',
+  },
+  {
+    name: 'luci-app-aliddns',
+    desc: '阿里云ddns插件',
+  },
+  {
+    name: 'luci-app-ddns',
+    desc: '动态域名 DDNS',
+  },
+  {
+    name: 'luci-app-eqos',
+    desc: '依IP地址限速',
+  },
   // {
   //   name: 'luci-app-filetransfer',
   //   desc: '文件传输',
@@ -125,14 +125,14 @@ module.exports = [
   //   name: 'luci-app-serverchan',
   //   desc: '微信/Telegram推送',
   // },
-  // {
-  //   name: 'luci-app-transmission',
-  //   desc: 'BT下载工具',
-  // },
-  // {
-  //   name: 'luci-app-dailybonus',
-  //   desc: '京东签到服务',
-  // },
+  {
+    name: 'luci-app-transmission',
+    desc: 'BT下载工具',
+  },
+  {
+    name: 'luci-app-dailybonus',
+    desc: '京东签到服务',
+  },
   // {
   //   name: 'luci-app-frpc',
   //   desc: 'frpc 网络代理',
