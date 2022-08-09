@@ -69,10 +69,10 @@ module.exports = [
   //   name: 'luci-app-sqm',
   //   desc: '流量智能队列管理(QOS)',
   // },
-  // {
-  //   name: 'luci-app-advancedsetting',
-  //   desc: '系统高级设置',
-  // },
+  {
+    name: 'luci-app-advancedsetting',
+    desc: '系统高级设置',
+  },
   {
     name: 'luci-app-ttyd',
     desc: 'ttyd 终端',
