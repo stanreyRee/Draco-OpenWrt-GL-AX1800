@@ -26,9 +26,9 @@ module.exports = [
     uri: 'https://github.com/kenzok8/small.git',
     branch: 'master',
   },
-  // {
-  //   name: 'lienol_packages',
-  //   uri: 'https://github.com/Lienol/openwrt-package.git',
-  //   branch: 'main',
-  // },
+  {
+    name: 'lienol_packages',
+    uri: 'https://github.com/Lienol/openwrt-package.git',
+    branch: 'main',
+  },
 ];
